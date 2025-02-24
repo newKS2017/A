@@ -1,0 +1,108 @@
+{
+    "data":[
+        {
+            "date": "2024-01-24",
+            "code": "603178",
+            "name": "圣龙股份",
+            "jin_mr": "300",
+            "jin_mr_danj": "32.11",
+            "jin_mc": "0",
+            "jin_mc_danj": "0",
+            "yingli": "185",
+            "yinglilv": "2.96",
+            "number":"300",
+            "jiage":"33.08"
+        },
+        {
+            "date": "2024-01-24",
+            "code": "000020",
+            "name": "深华发A",
+            "jin_mr": "0",
+            "jin_mr_danj": "0",
+            "jin_mc": "500",
+            "jin_mc_danj": "0",
+            "yingli": "785",
+            "yinglilv": "",
+            "number":"500",
+            "jiage":"17.22"
+        },
+        {
+            "date": "2024-01-24",
+            "code": "603099",
+            "name": "长白山",
+            "jin_mr": "200",
+            "jin_mr_danj": "33.41",
+            "jin_mc": "0",
+            "jin_mc_danj": "0",
+            "yingli": "",
+            "yinglilv": "",
+            "number":"",
+            "jiage":""
+        },
+        {
+            "date": "2024-01-24",
+            "code": "603099",
+            "name": "长白山",
+            "jin_mr": "0",
+            "jin_mr_danj": "0",
+            "jin_mc": "400",
+            "jin_mc_danj": "32.70",
+            "yingli": "-830",
+            "yinglilv": "-4.05",
+            "number":"200",
+            "jiage":"32.79"
+        },
+        {
+            "date": "2024-01-24",
+            "code": "600593",
+            "name": "大连圣亚",
+            "jin_mr": "0",
+            "jin_mr_danj": "0",
+            "jin_mc": "1800",
+            "jin_mc_danj": "24.51",
+            "yingli": "2304",
+            "yinglilv": "5.5",
+            "number":"0",
+            "jiage":"24.94"
+        },
+        {
+            "date": "2024-01-24",
+            "code": "003027",
+            "name": "同兴环保",
+            "jin_mr": "400",
+            "jin_mr_danj": "26.72",
+            "jin_mc": "0",
+            "jin_mc_danj": "0",
+            "yingli": "-300",
+            "yinglilv": "-2.8",
+            "number":"400",
+            "jiage":"25.96"
+        },
+        {
+            "date": "2024-01-24",
+            "code": "002033",
+            "name": "丽江股份",
+            "jin_mr": "0",
+            "jin_mr_danj": "0",
+            "jin_mc": "0",
+            "jin_mc_danj": "0",
+            "yingli": "408",
+            "yinglilv": "3.79",
+            "number":"1200",
+            "jiage":"9.31"
+        },
+        {
+            "date": "2024-01-24",
+            "code": "605577",
+            "name": "龙版传媒",
+            "jin_mr": "400",
+            "jin_mr_danj": "28.89",
+            "jin_mc": "0",
+            "jin_mc_danj": "0",
+            "yingli": "-357.12",
+            "yinglilv": "-3.09",
+            "number":"400",
+            "jiage":"28"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "data":[
+        {
+            "date": "2024-01-22",
+            "code": "002033",
+            "name": "丽江股份",
+            "jin_mr": "1200",
+            "jin_mr_danj": "9.3",
+            "jin_mc": "0",
+            "jin_mc_danj": "0",
+            "yingli": "-468",
+            "yinglilv": "-4.2",
+            "number":"1200",
+            "jiage":"8.93"
+        },
+        {
+            "date": "2024-01-23",
+            "code": "002033",
+            "name": "丽江股份",
+            "jin_mr": "0",
+            "jin_mr_danj": "0",
+            "jin_mc": "0",
+            "jin_mc_danj": "0",
+            "yingli": "48",
+            "yinglilv": "0.45",
+            "number":"1200",
+            "jiage":"8.97"
+        },
+        {
+            "date": "2024-01-24",
+            "code": "002033",
+            "name": "丽江股份",
+            "jin_mr": "0",
+            "jin_mr_danj": "0",
+            "jin_mc": "0",
+            "jin_mc_danj": "0",
+            "yingli": "408",
+            "yinglilv": "3.79",
+            "number":"1200",
+            "jiage":"9.31"
+        },
+        {
+            "date": "2024-01-25",
+            "code": "002033",
+            "name": "丽江股份",
+            "jin_mr": "800",
+            "jin_mr_danj": "9.11",
+            "jin_mc": "0",
+            "jin_mc_danj": "0",
+            "yingli": "",
+            "yinglilv": "",
+            "number":"2000",
+            "jiage":""
+        },
+        {
+            "date": "2024-01-25",
+            "code": "002033",
+            "name": "丽江股份",
+            "jin_mr": "0",
+            "jin_mr_danj": "0",
+            "jin_mc": "800",
+            "jin_mc_danj": "9.13",
+            "yingli": "",
+            "yinglilv": "",
+            "number":"1200",
+            "jiage":""
+        },
+        {
+            "date": "2024-01-25",
+            "code": "002033",
+            "name": "丽江股份",
+            "jin_mr": "0",
+            "jin_mr_danj": "0",
+            "jin_mc": "",
+            "jin_mc_danj": "0",
+            "yingli": "-200",
+            "yinglilv": "-1.08",
+            "number":"1200",
+            "jiage":"9.13",
+            "z":"-206",
+            "zl":"-1.849"
+        }
+    ]
+}

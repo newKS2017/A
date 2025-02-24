@@ -1,0 +1,58 @@
+{
+    "data":[
+        {
+            "date":"2024-01-19",
+            "code":"603178",
+            "name":"圣龙股份",
+            "jin_mr":"600",
+            "jin_mr_danj":"36.85",
+            "jin_mc":"0",
+            "jin_mc_danj":"0",
+            "yingli":"-1933.78",
+            "yinglilv":"-8.746",
+            "number":"0",
+            "jiage":"0"
+        },
+        {
+            "date": "2024-01-22",
+            "code": "603220",
+            "name": "圣龙股份",
+            "jin_mr": "0",
+            "jin_mr_danj": "0",
+            "jin_mc": "600",
+            "jin_mc_danj": "33.7",
+            "yingli": "42",
+            "yinglilv": "0.2",
+            "number":"0",
+            "jiage":"33.23"
+        },
+        {
+            "date": "2024-01-24",
+            "code": "603178",
+            "name": "圣龙股份",
+            "jin_mr": "300",
+            "jin_mr_danj": "32.11",
+            "jin_mc": "0",
+            "jin_mc_danj": "0",
+            "yingli": "185",
+            "yinglilv": "2.96",
+            "number":"300",
+            "jiage":"33.08"
+        },
+        {
+            "date": "2024-01-25",
+            "code": "603178",
+            "name": "圣龙股份",
+            "jin_mr": "0",
+            "jin_mr_danj": "0",
+            "jin_mc": "0",
+            "jin_mc_danj": "0",
+            "yingli": "150",
+            "yinglilv": "1.5",
+            "number":"300",
+            "jiage":"33.58",
+            "z":"438.91",
+            "zl":"4.554"
+        }
+    ]
+}

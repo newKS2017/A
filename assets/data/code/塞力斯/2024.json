@@ -1,0 +1,30 @@
+{
+    "data":[
+        {
+            "date":"2024-01-19",
+            "code":"601127",
+            "name":"塞力斯",
+            "jin_mr":"300",
+            "jin_mr_danj":"76.861",
+            "jin_mc":"0",
+            "jin_mc_danj":"0",
+            "yingli":"-4353.32",
+            "yinglilv":"-18.88",
+            "number":"0",
+            "jiage":"0"
+        },
+        {
+            "date": "2024-01-22",
+            "code": "601127",
+            "name": "塞力斯",
+            "jin_mr": "0",
+            "jin_mr_danj": "0",
+            "jin_mc": "300",
+            "jin_mc_danj": "62.22",
+            "yingli": "-39",
+            "yinglilv": "0.2",
+            "number":"0",
+            "jiage":"60.28"
+        }
+    ]
+}

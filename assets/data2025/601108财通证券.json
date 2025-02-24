@@ -1,0 +1,37 @@
+{
+    "code":"601108",
+    "name":"财通证券",
+    "yingl":"",
+    "yingll":"",
+    "shul":"",
+    "content":[
+        {
+            "chengb":"8.33",
+            "shoupj":"8.21",
+            "mair":[
+                {"danj":"","shul":""}
+            ],
+            "maic":[
+                {"danj":"","shul":""}
+            ],
+            "date":"2025-02-24",
+            "yingl":"-704",
+            "yingll":"-1.912",
+            "beiz":""
+        },
+        {
+            "chengb":"8.33",
+            "shoupj":"8.37",
+            "mair":[
+                {"danj":"8.33","shul":"4400"}
+            ],
+            "maic":[
+                {"danj":"","shul":""}
+            ],
+            "date":"2025-02-21",
+            "yingl":"176",
+            "yingll":"0.48",
+            "beiz":"百瑞赢-微信推荐"
+        }
+    ]
+}

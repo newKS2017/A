@@ -1,0 +1,71 @@
+{
+    "data":[
+        {
+            "date": "2024-01-22",
+            "code": "603099",
+            "name": "长白山",
+            "jin_mr": "200",
+            "jin_mr_danj": "37.5",
+            "jin_mc": "0",
+            "jin_mc_danj": "0",
+            "yingli": "159",
+            "yinglilv": "2.12",
+            "number":"200",
+            "jiage":"38.29"
+        },
+        {
+            "date": "2024-01-23",
+            "code": "603099",
+            "name": "长白山",
+            "jin_mr": "200",
+            "jin_mr_danj": "34.48",
+            "jin_mc": "0",
+            "jin_mc_danj": "0",
+            "yingli": "-616",
+            "yinglilv": "-4.28",
+            "number":"400",
+            "jiage":"34.46"
+        },
+        {
+            "date": "2024-01-24",
+            "code": "603099",
+            "name": "长白山",
+            "jin_mr": "200",
+            "jin_mr_danj": "33.41",
+            "jin_mc": "0",
+            "jin_mc_danj": "0",
+            "yingli": "",
+            "yinglilv": "",
+            "number":"",
+            "jiage":""
+        },
+        {
+            "date": "2024-01-24",
+            "code": "603099",
+            "name": "长白山",
+            "jin_mr": "0",
+            "jin_mr_danj": "0",
+            "jin_mc": "400",
+            "jin_mc_danj": "32.70",
+            "yingli": "-830",
+            "yinglilv": "-4.05",
+            "number":"200",
+            "jiage":"32.79"
+        },
+        {
+            "date": "2024-01-25",
+            "code": "603099",
+            "name": "长白山",
+            "jin_mr": "0",
+            "jin_mr_danj": "0",
+            "jin_mc": "200",
+            "jin_mc_danj": "33",
+            "yingli": "42",
+            "yinglilv": "0.64",
+            "number":"0",
+            "jiage":"33.01",
+            "z":"-1434",
+            "zl":""
+        }
+    ]
+}

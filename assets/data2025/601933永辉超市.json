@@ -1,0 +1,37 @@
+{
+    "code":"601933",
+    "name":"永辉超市",
+    "yingl":"0",
+    "yingll":"0",
+    "shul":"0",
+    "content":[
+        {
+            "chengb":"5.30",
+            "shoupj":"5.57",
+            "mair":[
+                {"danj":"","shul":""}
+            ],
+            "maic":[
+                {"danj":"5.49","shul":"6200"}
+            ],
+            "date":"2025-02-10",
+            "yingl":"806",
+            "yingll":"2.425",
+            "beiz":""
+        },
+        {
+            "chengb":"5.30",
+            "shoupj":"5.36",
+            "mair":[
+                {"danj":"5.29","shul":"6200"}
+            ],
+            "maic":[
+                {"danj":"","shul":""}
+            ],
+            "date":"2025-02-07",
+            "yingl":"434",
+            "yingll":"1.323",
+            "beiz":""
+        }
+    ]
+}

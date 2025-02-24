@@ -1,0 +1,58 @@
+{
+    "data":[
+        {
+            "date": "2024-01-24",
+            "code": "003027",
+            "name": "同兴环保",
+            "jin_mr": "400",
+            "jin_mr_danj": "26.72",
+            "jin_mc": "0",
+            "jin_mc_danj": "0",
+            "yingli": "-300",
+            "yinglilv": "-2.8",
+            "number":"400",
+            "jiage":"25.96"
+        },
+        {
+            "date": "2024-01-25",
+            "code": "003027",
+            "name": "同兴环保",
+            "jin_mr": "500",
+            "jin_mr_danj": "23.36",
+            "jin_mc": "0",
+            "jin_mc_danj": "0",
+            "yingli": "",
+            "yinglilv": "",
+            "number":"900",
+            "jiage":""
+        },
+        {
+            "date": "2024-01-25",
+            "code": "003027",
+            "name": "同兴环保",
+            "jin_mr": "0",
+            "jin_mr_danj": "0",
+            "jin_mc": "400",
+            "jin_mc_danj": "23.36",
+            "yingli": "0",
+            "yinglilv": "0",
+            "number":"500",
+            "jiage":"0"
+        },
+        {
+            "date": "2024-01-25",
+            "code": "003027",
+            "name": "同兴环保",
+            "jin_mr": "0",
+            "jin_mr_danj": "0",
+            "jin_mc": "0",
+            "jin_mc_danj": "0",
+            "yingli": "-825",
+            "yinglilv": "-3.739",
+            "number":"500",
+            "jiage":"23.36",
+            "z":"-1144.67",
+            "zl":"-8.777"
+        }
+    ]
+}

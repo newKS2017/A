@@ -1,0 +1,30 @@
+{
+    "data":[
+        {
+            "date": "2024-01-23",
+            "code": "000020",
+            "name": "深华发A",
+            "jin_mr": "500",
+            "jin_mr_danj": "15.55",
+            "jin_mc": "0",
+            "jin_mc_danj": "0",
+            "yingli": "50",
+            "yinglilv": "0.63",
+            "number":"500",
+            "jiage":"15.65"
+        },
+        {
+            "date": "2024-01-24",
+            "code": "000020",
+            "name": "深华发A",
+            "jin_mr": "0",
+            "jin_mr_danj": "0",
+            "jin_mc": "500",
+            "jin_mc_danj": "0",
+            "yingli": "785",
+            "yinglilv": "",
+            "number":"500",
+            "jiage":"17.22"
+        }
+    ]
+}

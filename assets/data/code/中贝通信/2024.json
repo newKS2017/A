@@ -1,0 +1,56 @@
+{
+    "data":[
+        {
+            "date":"2024-01-19",
+            "code":"603220",
+            "name":"中贝通信",
+            "jin_mr":"300",
+            "jin_mr_danj":"28.47",
+            "jin_mc":"0",
+            "jin_mc_danj":"0",
+            "yingli":"-71.09",
+            "yinglilv":"-0.832",
+            "number":"300",
+            "jiage":"28.25"
+        },
+        {
+            "date": "2024-01-22",
+            "code": "603220",
+            "name": "中贝通信",
+            "jin_mr": "0",
+            "jin_mr_danj": "0",
+            "jin_mc": "300",
+            "jin_mc_danj": "28.62",
+            "yingli": "0",
+            "yinglilv": "0",
+            "number":"0",
+            "jiage":"0"
+        },
+        {
+            "date": "2024-01-22",
+            "code": "603220",
+            "name": "中贝通信",
+            "jin_mr": "800",
+            "jin_mr_danj": "27.31",
+            "jin_mc": "0",
+            "jin_mc_danj": "0",
+            "yingli": "-494.69",
+            "yinglilv": "-2.26",
+            "number":"800",
+            "jiage":"26.69"
+        },
+        {
+            "date": "2024-01-23",
+            "code": "603220",
+            "name": "中贝通信",
+            "jin_mr": "0",
+            "jin_mr_danj": "0",
+            "jin_mc": "800",
+            "jin_mc_danj": "27.4",
+            "yingli": "572",
+            "yinglilv": "2.68",
+            "number":"0",
+            "jiage":"0"
+        }
+    ]
+}

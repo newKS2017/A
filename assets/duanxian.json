@@ -1,0 +1,340 @@
+{
+    "备注": [
+        {
+            "短线": "持仓2层，盈利就出，-3个点止损"
+        },
+        {
+            "中线": "持仓2层，做T"
+        },
+        {
+            "擒龙": "持仓2层，跟着老师做，偶尔可以做T"
+        },
+        {
+            "剩余4层仓": "平时用来做T，做T当天不管盈亏必须T出来；用来补仓"
+        },
+        {
+            "补仓": "短线只做盈亏不做T不补仓，中线和擒龙可以补仓"
+        },
+        {
+            "本金": "10万本金,2024-04-12账户亏损46908，亏损率46.908"
+        }
+    ],
+    "data": [
+        [
+            {
+                "date": "2024-04-15",
+                "chic": 100000,
+                "yingk": -2486,
+                "allYingk": -2486
+            },
+            {
+                "date": "2024-04-16",
+                "chic": 100000,
+                "yingk": -5976,
+                "allYingk": -8462
+            },
+            {
+                "date": "2024-04-17",
+                "chic": 100000,
+                "yingk": 7528,
+                "allYingk": -934
+            },
+            {
+                "date": "2024-04-18",
+                "chic": 100000,
+                "yingk": 814,
+                "allYingk": -120
+            },
+            {
+                "date": "2024-04-19",
+                "chic": 100000,
+                "yingk": -877,
+                "allYingk": -997
+            },
+            {
+                "date": "2024-04-22",
+                "chic": 100000,
+                "yingk": -886,
+                "allYingk": -1883
+            }
+        ]
+    ],
+    "duanXian": [
+        {
+            "code": "600602",
+            "name": "云赛智联",
+            "yingl": -1418,
+            "chicNum": 1100,
+            "type": "短线",
+            "data": [
+                {
+                    "dateMr": "2024-04-12",
+                    "mair_num": 1100,
+                    "mair_danj": 12.58,
+                    "mair_zongj": 13843
+                }
+            ]
+        },
+        {
+            "code":"600420",
+            "name":"国药现代",
+            "yingl":"-51",
+            "chicNum":0,
+            "type":"早盘推荐",
+            "data":[
+                {
+                    "dateMr": "2024-04-16",
+                    "dateMc": "2024-04-17",
+                    "mair_num":200,
+                    "mair_danj":10.01,
+                    "mair_zongj":2007,
+                    "maic_num":200,
+                    "maic_danj":9.81,
+                    "maic_zongj":1962
+                }
+            ]
+        },
+        {
+            "code":"000701",
+            "name":"厦门信达",
+            "yingl":"-806",
+            "chicNum":2400,
+            "type":"自选",
+            "data":[
+                {
+                    "dateMr": "2024-04-18",
+                    "dateMc": "2024-04-22",
+                    "mair_num":2400,
+                    "mair_danj":4.2,
+                    "mair_zongj":10085,
+                    "maic_num":2400,
+                    "maic_danj":3.87,
+                    "maic_zongj":9288
+                }
+            ]
+        },
+        {
+            "code":"600795",
+            "name":"国电电力",
+            "yingl":"321",
+            "chicNum":7000,
+            "type":"自选",
+            "data":[
+                {
+                    "dateMr": "2024-04-18",
+                    "dateMc": "2024-04-22",
+                    "mair_num":7000,
+                    "mair_danj":5,
+                    "mair_zongj":35005,
+                    "maic_num":7000,
+                    "maic_danj":5.05,
+                    "maic_zongj":35350
+                }
+            ]
+        },
+        {
+            "code":"000737",
+            "name":"北方铜业",
+            "yingl":"904",
+            "chicNum":1000,
+            "type":"自选",
+            "data":[
+                {
+                    "dateMr": "2024-04-19",
+                    "dateMc": "2024-04-22",
+                    "mair_num":1000,
+                    "mair_danj":10.7,
+                    "mair_zongj":100700,
+                    "maic_num":1000,
+                    "maic_danj":11.62,
+                    "maic_zongj":11620
+                }
+            ]
+        }
+    ],
+    "zhongXian": [
+        {
+            "code": "000628",
+            "name": "高新发展",
+            "yingl": -1195,
+            "chicNum": 0,
+            "type": "中线",
+            "data": [
+                {
+                    "dateMr": "2024-04-12",
+                    "mair_num": 400,
+                    "mair_danj": 57.14,
+                    "mair_zongj": 22861
+                },
+                {
+                    "dateMr": "2024-04-15",
+                    "mair_num": 400,
+                    "mair_danj": 54.00,
+                    "mair_zongj": 21600
+                },
+                {
+                    "dateMr": "2024-04-16",
+                    "mair_num": 100,
+                    "mair_danj": 50.37,
+                    "mair_zongj": 5037
+                },
+                {
+                    "dateMc": "2024-04-17",
+                    "maic_num": 900,
+                    "maic_danj": 53.71,
+                    "maic_zongj": 48343
+                }
+            ]
+        },
+        {
+            "code":"601138",
+            "name":"工业富联",
+            "yingl":-225,
+            "chicNum":1000,
+            "type":"早盘推荐",
+            "data":[
+                {
+                    "dateMr": "2024-04-17",
+                    "mair_num":500,
+                    "mair_danj":21.94,
+                    "mair_zongj":10966
+                },
+                {
+                    "dateMr": "2024-04-19",
+                    "mair_num":500,
+                    "mair_danj":21.85,
+                    "mair_zongj":10925
+                }
+            ]
+        },
+        {
+            "code":"601127",
+            "name":"赛力斯",
+            "yingl":488,
+            "chicNum":200,
+            "type":"早盘推荐",
+            "data":[
+                {
+                    "dateMr": "2024-04-17",
+                    "dateMc": "2024-04-18",
+                    "mair_num":300,
+                    "mair_danj":89.6,
+                    "mair_zongj":26880,
+                    "maic_num":300,
+                    "maic_danj":94.74,
+                    "maic_zongj":28422
+                },
+                
+                {
+                    "dateMr": "2024-04-19",
+                    "dateMc": "",
+                    "mair_num":200,
+                    "mair_danj":92.46,
+                    "mair_zongj":18492,
+                    "maic_num":0,
+                    "maic_danj":0,
+                    "maic_zongj":0
+                }
+            ]
+        }
+    ],
+    "qinLong": [
+        {
+            "code": "603338",
+            "name": "浙江鼎力",
+            "yingl": 487,
+            "chicNum": 0,
+            "type": "擒龙",
+            "data": [
+                {
+                    "dateMr": "2024-04-03",
+                    "dateMc": "2024-04-11",
+                    "mair_num": 300,
+                    "mair_danj": 60.61,
+                    "mair_zongj": 18183,
+                    "maic_num": 300,
+                    "maic_danj": 62.30,
+                    "maic_zongj": 18690
+                }
+            ]
+        },
+        {
+            "code": "002381",
+            "name": "双箭股份",
+            "yingl": -662,
+            "chicNum": 4300,
+            "type": "擒龙",
+            "data": [
+                {
+                    "dateMr": "2024-04-12",
+                    "mair_num": 3800,
+                    "mair_danj": 8.54,
+                    "mair_zongj": 32452
+                },
+                {
+                    "dateMr": "2024-04-16",
+                    "mair_num": 500,
+                    "mair_danj": 8.09,
+                    "mair_zongj": 4045
+                }
+            ]
+        },
+        {
+            "code": "600426",
+            "name": "华鲁恒升",
+            "yingl": 93,
+            "chicNum": 0,
+            "type": "擒龙",
+            "data": [
+                {
+                    "dateMr": "2024-04-15",
+                    "mair_num": 900,
+                    "mair_danj": 28.45,
+                    "mair_zongj": 25600
+                },
+                {
+                    "dateMr": "2024-04-18",
+                    "mair_num": 900,
+                    "mair_danj": 28.29,
+                    "mair_zongj": 25461
+                }
+            ]
+        },
+        {
+            "code": "000856",
+            "name": "冀东装备",
+            "yingl": -1632,
+            "chicNum": 0,
+            "type": "擒龙",
+            "data": [
+                {
+                    "dateMr": "2024-04-15",
+                    "dateMc": "2024-04-16",
+                    "mair_num": 1000,
+                    "mair_danj": 9.18,
+                    "mair_zongj": 9180,
+                    "maic_num": 1000,
+                    "maic_danj": 7.56,
+                    "maic_zongj": 7560
+                }
+            ]
+        }
+    ],
+    "zaoPan":[
+        {
+            "code":"001389",
+            "name":"广合科技",
+            "yingl": -1416,
+            "chicNum": 200,
+            "type": "早盘",
+            "data": [
+                {
+                    "dateMr": "2024-04-07",
+                    "mair_num": 200,
+                    "mair_danj": 54.86,
+                    "mair_zongj": 10977
+                }
+            ]
+        }
+    ]
+}

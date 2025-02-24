@@ -1,0 +1,69 @@
+{
+    "data":[
+        {
+            "date":"2024-01-19",
+            "code":"600593",
+            "name":"大连圣亚",
+            "jin_mr":"600",
+            "jin_mr_danj":"31.25",
+            "jin_mc":"0",
+            "jin_mc_danj":"0",
+            "yingli":"-1919.19",
+            "yinglilv":"-10.234",
+            "number":"0",
+            "jiage":"0"
+        },
+        {
+            "date": "2024-01-22",
+            "code": "600593",
+            "name": "大连圣亚",
+            "jin_mr": "300",
+            "jin_mr_danj": "28.34",
+            "jin_mc": "0",
+            "jin_mc_danj": "0",
+            "yingli": "0",
+            "yinglilv": "0",
+            "number":"0",
+            "jiage":"0"
+        },
+        {
+            "date": "2024-01-22",
+            "code": "600593",
+            "name": "大连圣亚",
+            "jin_mr": "500",
+            "jin_mr_danj": "25.9",
+            "jin_mc": "0",
+            "jin_mc_danj": "0",
+            "yingli": "-2154",
+            "yinglilv": "-5.62",
+            "number":"1400",
+            "jiage":"25.25"
+        },
+        {
+            "date": "2024-01-23",
+            "code": "600593",
+            "name": "大连圣亚",
+            "jin_mr": "400",
+            "jin_mr_danj": "23.44",
+            "jin_mc": "0",
+            "jin_mc_danj": "0",
+            "yingli": "-7784.5",
+            "yinglilv": "-15.7",
+            "number":"1800",
+            "jiage":"23.23"
+        },
+        {
+            "date": "2024-01-24",
+            "code": "600593",
+            "name": "大连圣亚",
+            "jin_mr": "0",
+            "jin_mr_danj": "0",
+            "jin_mc": "1800",
+            "jin_mc_danj": "24.51",
+            "yingli": "2304",
+            "yinglilv": "5.5",
+            "number":"0",
+            "jiage":"24.94"
+        }
+    ]
+}
