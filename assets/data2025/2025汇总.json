@@ -1581,6 +1581,20 @@
             "shul":"6100",
             "content":[
                 {
+                    "chengb":"15.457",
+                    "shoupj":"",
+                    "mair":[
+                        {"danj":"8.24","shul":"3700"}
+                    ],
+                    "maic":[
+                        {"danj":"","shul":""}
+                    ],
+                    "date":"2025-02-25",
+                    "yingl":"",
+                    "yingll":"",
+                    "beiz":""
+                },
+                {
                     "chengb":"282.417",
                     "shoupj":"8.22",
                     "mair":[
@@ -2019,11 +2033,26 @@
             "shul":"100",
             "content":[
                 {
+                    "chengb":"6.086",
+                    "shoupj":"",
+                    "zYingli":"",
+                    "mair":[
+                        {"danj":"5.90","shul":"5000"}
+                    ],
+                    "maic":[
+                        {"danj":"","shul":""}
+                    ],
+                    "date":"2025-02-25",
+                    "yingl":"",
+                    "yingll":"",
+                    "beiz":""
+                },
+                {
                     "chengb":"6.268",
                     "shoupj":"6.02",
                     "zYingli":"-3.954",
                     "mair":[
-                        {"danj":"","shul":""}
+                        {"danj":"6.02","shul":"5000"}
                     ],
                     "maic":[
                         {"danj":"","shul":""}
