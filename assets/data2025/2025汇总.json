@@ -200,8 +200,8 @@
             "content":[
                 {
                     "chengb":"57.11",
-                    "shoupj":"57.11",
-                    "zYingli":"",
+                    "shoupj":"57.18",
+                    "zYingli":"0.13",
                     "mair":[
                         {"danj":"57.10","shul":"1000"}
                     ],
@@ -209,8 +209,8 @@
                         {"danj":"","shul":""}
                     ],
                     "date":"2025-02-25",
-                    "yingl":"",
-                    "yingll":"",
+                    "yingl":"80",
+                    "yingll":"0.14",
                     "beiz":""
                 },
                 {
@@ -424,7 +424,7 @@
             "content":[
                 {
                     "chengb":"125.733",
-                    "shoupj":"",
+                    "shoupj":"127.98",
                     "zYingli":"",
                     "mair":[
                         {"danj":"","shul":""}
@@ -433,8 +433,8 @@
                         {"danj":"127.87","shul":"800"}
                     ],
                     "date":"2025-02-25",
-                    "yingl":"",
-                    "yingll":"",
+                    "yingl":"3328",
+                    "yingll":"3.363",
                     "beiz":""
                 },
                 {
@@ -593,6 +593,21 @@
             "yingll":"-25.531",
             "shul":"2000",
             "content":[
+                {
+                    "chengb":"25.882",
+                    "shoupj":"21.80",
+                    "zYingli":"-15.772",
+                    "mair":[
+                        {"danj":"","shul":""}
+                    ],
+                    "maic":[
+                        {"danj":"","shul":""}
+                    ],
+                    "date":"2025-02-25",
+                    "yingl":"-2847",
+                    "yingll":"-3.24",
+                    "beiz":""
+                },
                 {
                     "chengb":"25.882",
                     "shoupj":"22.53",
@@ -959,6 +974,21 @@
             "content":[
                 {
                     "chengb":"30.472",
+                    "shoupj":"26.78",
+                    "zYingli":"-12.116",
+                    "mair":[
+                        {"danj":"","shul":""}
+                    ],
+                    "maic":[
+                        {"danj":"","shul":""}
+                    ],
+                    "date":"2025-02-25",
+                    "yingl":"-1652",
+                    "yingll":"-2.156",
+                    "beiz":""
+                },
+                {
+                    "chengb":"30.472",
                     "shoupj":"27.37",
                     "zYingli":"-10.18",
                     "mair":[
@@ -1293,8 +1323,8 @@
             "content":[
                 {
                     "chengb":"26.691",
-                    "shoupj":"",
-                    "zYingli":"",
+                    "shoupj":"24.48",
+                    "zYingli":"-8.284",
                     "mair":[
                         {"danj":"24.41","shul":"400"}
                     ],
@@ -1302,8 +1332,8 @@
                         {"danj":"","shul":""}
                     ],
                     "date":"2025-02-25",
-                    "yingl":"",
-                    "yingll":"",
+                    "yingl":"-1016",
+                    "yingll":"-4.932",
                     "beiz":"春节过后哪吒龙头票"
                 },
                 {
@@ -1403,8 +1433,8 @@
             "content":[
                 {
                     "chengb":"33.861",
-                    "shoupj":"",
-                    "zYingli":"",
+                    "shoupj":"31.28",
+                    "zYingli":"-7.622",
                     "mair":[
                         {"danj":"31.25","shul":"1200"}
                     ],
@@ -1412,8 +1442,8 @@
                         {"danj":"","shul":""}
                     ],
                     "date":"2025-02-25",
-                    "yingl":"",
-                    "yingll":"",
+                    "yingl":"-948",
+                    "yingll":"-1.247",
                     "beiz":""
                 },
                 {
@@ -1642,7 +1672,7 @@
             "content":[
                 {
                     "chengb":"15.457",
-                    "shoupj":"",
+                    "shoupj":"8.25",
                     "mair":[
                         {"danj":"8.24","shul":"3700"}
                     ],
@@ -1650,8 +1680,8 @@
                         {"danj":"","shul":""}
                     ],
                     "date":"2025-02-25",
-                    "yingl":"",
-                    "yingll":"",
+                    "yingl":"40",
+                    "yingll":"0.128",
                     "beiz":""
                 },
                 {
@@ -1875,6 +1905,20 @@
             "content":[
                 {
                     "chengb":"108.393",
+                    "shoupj":"12.23",
+                    "mair":[
+                        {"danj":"","shul":""}
+                    ],
+                    "maic":[
+                        {"danj":"","shul":""}
+                    ],
+                    "date":"2025-02-25",
+                    "yingl":"-51",
+                    "yingll":"-4",
+                    "beiz":""
+                },
+                {
+                    "chengb":"108.393",
                     "shoupj":"12.74",
                     "mair":[
                         {"danj":"","shul":""}
@@ -2094,8 +2138,8 @@
             "content":[
                 {
                     "chengb":"6.086",
-                    "shoupj":"",
-                    "zYingli":"",
+                    "shoupj":"5.95",
+                    "zYingli":"-2.235",
                     "mair":[
                         {"danj":"5.90","shul":"5000"}
                     ],
@@ -2103,8 +2147,8 @@
                         {"danj":"","shul":""}
                     ],
                     "date":"2025-02-25",
-                    "yingl":"",
-                    "yingll":"",
+                    "yingl":"-107",
+                    "yingll":"-0.178",
                     "beiz":""
                 },
                 {
@@ -3013,6 +3057,20 @@
             "content":[
                 {
                     "chengb":"8.33",
+                    "shoupj":"8.05",
+                    "mair":[
+                        {"danj":"","shul":""}
+                    ],
+                    "maic":[
+                        {"danj":"","shul":""}
+                    ],
+                    "date":"2025-02-25",
+                    "yingl":"-704",
+                    "yingll":"-1.949",
+                    "beiz":""
+                },
+                {
+                    "chengb":"8.33",
                     "shoupj":"8.21",
                     "mair":[
                         {"danj":"","shul":""}
@@ -3050,6 +3108,20 @@
             "content":[
                 {
                     "chengb":"150.39",
+                    "shoupj":"147.20",
+                    "mair":[
+                        {"danj":"","shul":""}
+                    ],
+                    "maic":[
+                        {"danj":"","shul":""}
+                    ],
+                    "date":"2025-02-25",
+                    "yingl":"-840",
+                    "yingll":"-1.867",
+                    "beiz":"百瑞赢-微信推荐"
+                },
+                {
+                    "chengb":"150.39",
                     "shoupj":"150",
                     "mair":[
                         {"danj":"150.38","shul":"300"}
@@ -3071,6 +3143,20 @@
             "yingll":"",
             "shul":"",
             "content":[
+                {
+                    "chengb":"57.33",
+                    "shoupj":"58.92",
+                    "mair":[
+                        {"danj":"57.33","shul":"800"}
+                    ],
+                    "maic":[
+                        {"danj":"","shul":""}
+                    ],
+                    "date":"2025-02-25",
+                    "yingl":"360",
+                    "yingll":"0.77",
+                    "beiz":"百瑞赢-微信推荐"
+                },
                 {
                     "chengb":"57.33",
                     "shoupj":"58.47",

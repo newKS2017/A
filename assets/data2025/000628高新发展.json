@@ -6,6 +6,21 @@
     "shul":"1300",
     "content":[
         {
+            "chengb":"57.11",
+            "shoupj":"57.18",
+            "zYingli":"0.13",
+            "mair":[
+                {"danj":"57.10","shul":"1000"}
+            ],
+            "maic":[
+                {"danj":"","shul":""}
+            ],
+            "date":"2025-02-25",
+            "yingl":"80",
+            "yingll":"0.14",
+            "beiz":""
+        },
+        {
             "chengb":"57.21",
             "shoupj":"58.85",
             "zYingli":"",
