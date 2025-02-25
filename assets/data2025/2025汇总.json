@@ -199,6 +199,21 @@
             "shul":"1300",
             "content":[
                 {
+                    "chengb":"57.11",
+                    "shoupj":"57.11",
+                    "zYingli":"",
+                    "mair":[
+                        {"danj":"57.10","shul":"1000"}
+                    ],
+                    "maic":[
+                        {"danj":"","shul":""}
+                    ],
+                    "date":"2025-02-25",
+                    "yingl":"",
+                    "yingll":"",
+                    "beiz":""
+                },
+                {
                     "chengb":"57.21",
                     "shoupj":"58.85",
                     "zYingli":"",
@@ -407,6 +422,21 @@
             "yingll":"0",
             "shul":"0",
             "content":[
+                {
+                    "chengb":"125.733",
+                    "shoupj":"",
+                    "zYingli":"",
+                    "mair":[
+                        {"danj":"","shul":""}
+                    ],
+                    "maic":[
+                        {"danj":"127.87","shul":"800"}
+                    ],
+                    "date":"2025-02-25",
+                    "yingl":"",
+                    "yingll":"",
+                    "beiz":""
+                },
                 {
                     "chengb":"125.733",
                     "shoupj":"123.71",
@@ -1262,6 +1292,21 @@
             "shul":"0",
             "content":[
                 {
+                    "chengb":"26.691",
+                    "shoupj":"",
+                    "zYingli":"",
+                    "mair":[
+                        {"danj":"24.41","shul":"400"}
+                    ],
+                    "maic":[
+                        {"danj":"","shul":""}
+                    ],
+                    "date":"2025-02-25",
+                    "yingl":"",
+                    "yingll":"",
+                    "beiz":"春节过后哪吒龙头票"
+                },
+                {
                     "chengb":"28.96",
                     "shoupj":"27.09",
                     "zYingli":"-6.457",
@@ -1356,6 +1401,21 @@
             "yingll":"-18.493",
             "shul":"1400",
             "content":[
+                {
+                    "chengb":"33.861",
+                    "shoupj":"",
+                    "zYingli":"",
+                    "mair":[
+                        {"danj":"31.25","shul":"1200"}
+                    ],
+                    "maic":[
+                        {"danj":"","shul":""}
+                    ],
+                    "date":"2025-02-25",
+                    "yingl":"",
+                    "yingll":"",
+                    "beiz":""
+                },
                 {
                     "chengb":"36.467",
                     "shoupj":"32.1",
