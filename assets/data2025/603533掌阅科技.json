@@ -7,6 +7,36 @@
     "content":[
         {
             "chengb":"25.882",
+            "shoupj":"21.09",
+            "zYingli":"-18.515",
+            "mair":[
+                {"danj":"","shul":""}
+            ],
+            "maic":[
+                {"danj":"","shul":""}
+            ],
+            "date":"2025-02-27",
+            "yingl":"-3120",
+            "yingll":"3.655",
+            "beiz":""
+        },
+        {
+            "chengb":"25.882",
+            "shoupj":"21.89",
+            "zYingli":"-15.424",
+            "mair":[
+                {"danj":"","shul":""}
+            ],
+            "maic":[
+                {"danj":"","shul":""}
+            ],
+            "date":"2025-02-26",
+            "yingl":"351",
+            "yingll":"0.413",
+            "beiz":""
+        },
+        {
+            "chengb":"25.882",
             "shoupj":"21.80",
             "zYingli":"-15.772",
             "mair":[

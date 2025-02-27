@@ -7,9 +7,38 @@
     "content":[
         {
             "chengb":"57.33",
+            "shoupj":"59.13",
+            "zYingli":"0.984",
+            "mair":[
+                {"danj":"","shul":""}
+            ],
+            "maic":[
+                {"danj":"","shul":""}
+            ],
+            "date":"2025-02-27",
+            "yingl":"-984",
+            "yingll":"-2.08",
+            "beiz":"百瑞赢-微信推荐"
+        },
+        {
+            "chengb":"57.33",
+            "shoupj":"59.13",
+            "mair":[
+                {"danj":"","shul":""}
+            ],
+            "maic":[
+                {"danj":"","shul":""}
+            ],
+            "date":"2025-02-26",
+            "yingl":"168",
+            "yingll":"0.356",
+            "beiz":"百瑞赢-微信推荐"
+        },
+        {
+            "chengb":"57.33",
             "shoupj":"58.92",
             "mair":[
-                {"danj":"57.33","shul":"800"}
+                {"danj":"","shul":""}
             ],
             "maic":[
                 {"danj":"","shul":""}

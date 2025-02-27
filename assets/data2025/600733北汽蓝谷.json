@@ -9,6 +9,34 @@
             "chengb":"15.457",
             "shoupj":"8.25",
             "mair":[
+                {"danj":"","shul":""}
+            ],
+            "maic":[
+                {"danj":"","shul":""}
+            ],
+            "date":"2025-02-27",
+            "yingl":"-190",
+            "yingll":"-0.602",
+            "beiz":""
+        },
+        {
+            "chengb":"15.457",
+            "shoupj":"8.30",
+            "mair":[
+                {"danj":"","shul":""}
+            ],
+            "maic":[
+                {"danj":"","shul":""}
+            ],
+            "date":"2025-02-26",
+            "yingl":"190",
+            "yingll":"0.606",
+            "beiz":""
+        },
+        {
+            "chengb":"15.457",
+            "shoupj":"8.25",
+            "mair":[
                 {"danj":"8.24","shul":"3700"}
             ],
             "maic":[
